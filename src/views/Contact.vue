@@ -13,7 +13,7 @@
         <!-- Lien externe ajouté -->
         <div class="mt-8">
           <a
-            href="http://localhost:5173/login"
+            href="https://logiciel-de-scb-regulator.vercel.app/login"
             target="_blank"
             class="inline-block bg-white text-blue-900 px-8 py-3 rounded-full font-bold hover:bg-blue-100 transition duration-300 shadow-lg"
           >
