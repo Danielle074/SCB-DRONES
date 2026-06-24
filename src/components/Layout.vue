@@ -102,7 +102,7 @@
             Plateforme
           </h4>
           <a
-            href="http://localhost:5173/login"
+            href="https://logiciel-de-scb-regulator.vercel.app/login"
             target="_blank"
             class="group inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 text-white px-5 py-3 rounded-xl transition-all duration-300 border border-white/20 hover:border-white/40 shadow-lg hover:shadow-xl hover:-translate-y-1"
           >
